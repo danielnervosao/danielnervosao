@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu perfil 🐱‍👤
 
-Meu nome é ### Daniel Henrique
+Meu nome é Daniel Henrique
 
 - Estou estudando Alura
 - Estou desenvolvendo na linguagem JavaScript
